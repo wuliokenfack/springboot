@@ -1,3 +1,5 @@
+For those who don't follow. We were unable to merge the forked (embedded) app with the main app here because Wulio turned out to have created the wrong app. We discovered this issue in yesterday's meeting and Wulio decided to take a few extra hours to create and update the correct project. They are now ready to connect with the team and merge their forked project into ours (the main one)
+
 apiVersion: v2
 name: springboot-crud-helm
 description: A Helm chart for Kubernetes
